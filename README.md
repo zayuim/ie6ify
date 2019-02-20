@@ -7,4 +7,4 @@ This is an old bookmarklet I discovered back in 2013, The original website is do
 
 To use head over to the original website and drag the link to your bookmarks:
 
-## [Original Site]((https://web.archive.org/web/20140626141851/http://ie6ify.com/))
+## [Original Site](https://web.archive.org/web/20140626141851/http://ie6ify.com/)
